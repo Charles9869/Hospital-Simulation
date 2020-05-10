@@ -1,0 +1,38 @@
+﻿  DistributeurDeRang.cpp
+  FileAttente.cpp
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(44,32): warning C4244:  '=' : conversion de '__int64' en '_Ty1', perte possible de données
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(44,32): warning C4244:         with
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(44,32): warning C4244:         [
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(44,32): warning C4244:             _Ty1=double
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(44,32): warning C4244:         ]
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(45,33): warning C4244:  '=' : conversion de '__int64' en '_Ty2', perte possible de données
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(45,33): warning C4244:         with
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(45,33): warning C4244:         [
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(45,33): warning C4244:             _Ty2=double
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(45,33): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,16): warning C4244:  'initialisation' : conversion de 'const _Ty1' en '_Ty1', perte possible de données
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,16): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,16): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,16): warning C4244:             _Ty1=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,16): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,16): warning C4244:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,16): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,16): warning C4244:             _Ty1=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,16): warning C4244:         ]
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(46): message :  voir la référence à l'instanciation de la fonction modèle 'std::pair<int,int>::pair<double,double,0>(const std::pair<double,double> &) noexcept' en cours de compilation
+C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\TP2\FileAttente.cpp(46): message :  voir la référence à l'instanciation de la fonction modèle 'std::pair<int,int>::pair<double,double,0>(const std::pair<double,double> &) noexcept' en cours de compilation
+  Fonction.cpp
+  main.cpp
+  Patient.cpp
+  Simulation.cpp
+  Génération de code en cours...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,1): warning C4244:  'initialisation' : conversion de 'const _Ty2' en '_Ty2', perte possible de données
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,1): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,1): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,1): warning C4244:             _Ty2=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,1): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,1): warning C4244:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,1): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,1): warning C4244:             _Ty2=int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(143,1): warning C4244:         ]
+  TP2.vcxproj -> C:\Users\Charles\Documents\École\Informatique\Ancien programme\Session 3\Structures de données en informatique de gestion\Laboratoire\TP2\TP2 Version Finale\x64\Debug\TP2.exe
