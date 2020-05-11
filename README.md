@@ -9,7 +9,7 @@ Command line hospital simulation in C++ designed for a school project.
 ## RUN LOCALLY
 
 ```
-git clone https://github.com/Charles9869/Hospital-Simulation.git
+$ git clone https://github.com/Charles9869/Hospital-Simulation.git
 ```
 
 ## SCREENSHOTS
